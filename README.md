@@ -1,0 +1,2 @@
+# Karman-Pohlhausen-Approach-of-solving-the-boundary-layer-over-an-arbitrary-airfoil
+The Kármán–Pohlhausen Method will be implied to analyze the boundary layer over the three airfoils. Calculating the distribution of the boundary layer thickness, 𝛿, The distribution of the boundary layer displacement thickness, 𝛿1, The distribution of the boundary layer momentum thickness, 𝛿2, shear stress, 𝜏𝑤, Skin Friction Stress Coefficient, 𝐶𝑓𝑥
